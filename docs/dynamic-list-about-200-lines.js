@@ -10335,10 +10335,10 @@ __webpack_require__.r(__webpack_exports__);
   \************************************************************/
 /*! exports provided: default */
 /*! all exports used */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/_util/warning.js because of ./node_modules/antd/es/icon/index.js */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/config-provider/context.js because of ./node_modules/antd/es/button/button.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/_util/warning.js because of ./node_modules/antd/es/form/Form.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/config-provider/context.js because of ./node_modules/antd/es/button/button-group.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/classnames/index.js (<- Module is not an ECMAScript module) */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/omit.js/es/index.js because of ./node_modules/antd/es/button/button.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/omit.js/es/index.js because of ./node_modules/antd/es/form/Form.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/prop-types/index.js (<- Module is not an ECMAScript module) */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/rc-checkbox/es/index.js because of ./node_modules/antd/es/radio/radio.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js (<- Module is referenced from these modules with unsupported syntax: ./node_modules/mini-store/lib/connect.js (referenced with cjs require)) */
@@ -10868,7 +10868,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! exports provided: ConfigContext, ConfigConsumer, withConfigConsumer */
 /*! exports used: ConfigConsumer */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/@ant-design/create-react-context/lib/index.js (<- Module is not an ECMAScript module) */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/locale-provider/LocaleReceiver.js because of ./node_modules/antd/es/icon/index.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/locale-provider/LocaleReceiver.js because of ./node_modules/antd/es/table/Table.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/classnames/index.js (<- Module is not an ECMAScript module) */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/react/index.js (<- Module is not an ECMAScript module) */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -13357,8 +13357,8 @@ Col.propTypes = {
   \******************************************************/
 /*! exports provided: default */
 /*! exports used: default */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/_util/type.js because of ./node_modules/antd/es/button/button.js */
-/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/config-provider/context.js because of ./node_modules/antd/es/button/button.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/_util/type.js because of ./node_modules/antd/es/form/Form.js */
+/*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/config-provider/context.js because of ./node_modules/antd/es/checkbox/index.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/antd/es/grid/RowContext.js because of ./node_modules/antd/es/form/FormItem.js */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/classnames/index.js (<- Module is not an ECMAScript module) */
 /*! ModuleConcatenation bailout: Cannot concat with ./node_modules/prop-types/index.js (<- Module is not an ECMAScript module) */
