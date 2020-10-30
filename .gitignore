@@ -50,7 +50,8 @@ run.log
 
 ### the dist file ###
 
-dist/
+# @adjust 需要上传打包内容
+# dist/
 dist.zip
 nbdist/
 nbactions.xml
