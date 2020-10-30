@@ -117,6 +117,7 @@ let mpaConfig = getEntry(CONFIG.entry);
 // }
 
 export default {
+  outputPath: './docs',
   plugins: [
     // @TODO 打包配置相关
     // ['./dist/index', {
