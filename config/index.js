@@ -12,5 +12,9 @@ export default {
     // entry: './__demo/module/*.{js,tsx}',
 
     // ahooks
-    entry: './_ahooks-ui/*.{js,tsx}',  
+    // entry: './_ui/*.{js,tsx}',
+    // entry: './_side-effects/*.{js,tsx}',
+    // entry: './_lifecycle/*.{js,tsx}',
+    // entry: './_state/*.{js,tsx}',
+    entry: './_dom/*.{js,tsx}',
 }

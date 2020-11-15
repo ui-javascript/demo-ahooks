@@ -6,6 +6,7 @@
     "build": "umi build"
   },
   "dependencies": {
+    "@ahooksjs/use-url-state": "^2.5.2",
     "@babel/polyfill": "^7.7.0",
     "ahooks": "^2.8.0",
     "antd": "^3.25.1",
